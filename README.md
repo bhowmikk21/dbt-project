@@ -2,8 +2,8 @@
 dbt data mart using Airbnb data
 
 
-**Data Pipeline using S3, Snowflake, dbt, dagstar, Python.
-**
+Data Pipeline using S3, Snowflake, dbt, dagstar, Python
+
 Services Used:
 
 The project utilizes the following services:
