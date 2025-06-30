@@ -12,3 +12,5 @@ AWS S3 (Simple Storage Service) - Data Lake
 Snowflake Data Warehouse
 dbt
 Dagster
+Data modelling
+
